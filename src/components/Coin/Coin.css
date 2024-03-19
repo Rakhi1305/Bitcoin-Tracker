@@ -1,0 +1,15 @@
+.coinImage {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .loss {
+    color: #f00606;
+  }
+  
+  .gain {
+    color: #11d811;
+  }
+  .Market_Cap{
+    text-overflow: clip;
+  }
